@@ -2,7 +2,6 @@
 
 This is an interactive dashboard built using **Python**, **Pandas**, **Seaborn**, and **Streamlit** that analyzes Netflix content data — including title trends, genre distribution, country-wise content, and more.
 
-> 📊 Live Demo: [Click here to view the app](http://localhost:8501)  
 > 📁 Dataset: [Netflix Titles Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ---
